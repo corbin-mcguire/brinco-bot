@@ -1,5 +1,5 @@
 {
-  "name": "discordjs-command-routing-template",
+  "name": "brinco-bot",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/corbin-mcguire/discordjs-command-routing-template.git"
+    "url": "git+https://github.com/corbin-mcguire/brinco-bot.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/corbin-mcguire/discordjs-command-routing-template/issues"
+    "url": "https://github.com/corbin-mcguire/brinco-bot/issues"
   },
-  "homepage": "https://github.com/corbin-mcguire/discordjs-command-routing-template#readme",
+  "homepage": "https://github.com/corbin-mcguire/brinco-bot#readme",
   "dependencies": {
     "discord.js": "^14.7.1",
     "dotenv": "^16.0.3"

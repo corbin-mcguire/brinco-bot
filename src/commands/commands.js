@@ -1,8 +1,7 @@
-import { helloWorld } from "./helloworld.js";
+import { hackerNewsTopPosts } from "./hacker-news-top-posts.js";
 
 export const commands = {
-  [helloWorld.name]: helloWorld,
-  // more commands here
+  [hackerNewsTopPosts.name]: hackerNewsTopPosts,
 };
 
 export const commandList = Object.values(commands).map((command) => command.getCommand());
